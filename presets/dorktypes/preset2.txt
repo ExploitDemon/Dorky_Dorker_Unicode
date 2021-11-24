@@ -1,0 +1,10 @@
+.(PT)?(PP)= "(KW)" / (DE)
+.(PT)?(PP)= (DE) / "(KW)"
+"(KW)" / (DE).(PT)?(PP)=
+(DE) / "(KW)".(PT)?(PP)=
+"(KW)" / (DE) (PP)= .(PT)?
+(PP)= (DE) / "(KW)".(PT)?
+.(PT)? (DE) / "(KW)" (PP)=
+.(PT)? "(KW)" / (DE) (PP)=
+(KW) / (PT)?(PP)= site:(DE)
+(KW) / (PT)= + site:(DE)

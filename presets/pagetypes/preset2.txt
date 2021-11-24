@@ -1,0 +1,1 @@
+This preset is empty, you can edit this preset in presets/pagetypes/preset2.txt

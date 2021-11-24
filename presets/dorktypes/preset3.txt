@@ -1,0 +1,9 @@
+"(KW)".(PT)?(PP)= "(KW2)"
+"(KW2)" + "(KW)".(PT)?(PP)=
+"(KW)" + "(KW2)".(PT)?(PP)=
+.(PT)?(PP)= (SF)"(KW)" + "(KW2)"
+.(PT)?(PP)= (SF)"(KW2)" + "(KW)"
+(PP)= .(PT)? (SF)"(KW)" + "(KW2)"
+(PP)= .(PT)? (SF)"(KW2)" + "(KW)"
+(SF)"(KW2)" + "(KW)" (PP)= "(KW)".(PT)?
+(SF)"(KW)" + "(KW2)" (PP)= "(KW)".(PT)?
